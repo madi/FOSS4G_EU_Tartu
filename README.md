@@ -7,7 +7,7 @@ This work proposes a framework for Earth Observation (EO) cloud platforms to car
 
 # Dimensions and indicators
 
-The dimensions and indicators are described in the following table
+The dimensions and indicators that we identified are described in the following table
 
 | Dimensions             | Indicators                 | Description |
 |------------------------|----------------------------|-------------|
