@@ -20,7 +20,7 @@ The dimensions and indicators that we identified are described in the following 
 |                        | of services                | availability of up-to-date services (such as GPUs, HPC, real-time updates, continuous data streams, large storage capacity, No-Code or Low-Code AI solutions, containerisation, data cubes, MLOps, DevOps) |
 |                        | user diversity             | compliance with accessibility design principles and standards, e.g., Web Content Accessibility Guidelines (WCAG) |
 |                        | licensing                  | clear and transparent licenses for data use |
-| **Discoverability**    | integration with discovery serv. | services to search for spatial datasets and related applications |
+| **Discoverability**    | integration with discovery services | services to search for spatial datasets and related applications |
 |                        | data and metadata completeness | complete and accurate metadata to enable discovery |
 |                        | analytics                  | data and analytics to assess how users discover and access the services |
 |                        | search engine optimisation | optimisation of service-related pages and information for discovery services and search engines |
