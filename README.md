@@ -16,7 +16,8 @@ The dimensions and indicators that we identified are described in the following 
 |                        | model interoperability     | integration and use of different models or algorithms for sharing and collaboration |
 |                        | service interoperability   | integration of external services or applications |
 |                        | semantic interoperability  | use of standard vocabularies, ontologies, or semantic technologies for consistent and meaningful data interpretation |
-| **Accessibility**      | of models                  | availability of pre-built models or algorithms |
+| **Accessibility**      | of data                    | availability, variety, data types, granularity, resolution, coverage, timeliness, frequency at which new data is added, authentication, authorization, licensing and usage rights (clear information on data usage restrictions, copyright, and intellectual property rights), quality (accuracy, reliability, and completeness), metadata |
+|                        | of models                  | availability of pre-built models or algorithms |
 |                        | of services                | availability of up-to-date services (such as GPUs, HPC, real-time updates, continuous data streams, large storage capacity, No-Code or Low-Code AI solutions, containerisation, data cubes, MLOps, DevOps) |
 |                        | user diversity             | compliance with accessibility design principles and standards, e.g., Web Content Accessibility Guidelines (WCAG) |
 |                        | licensing                  | clear and transparent licenses for data use |
