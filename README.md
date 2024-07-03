@@ -51,4 +51,10 @@ The dimensions and indicators that we identified are described in the following 
 |                        | diversity and inclusivity  | presence of different user profiles, backgrounds, and expertise, creating an inclusive and diverse community, availability of a code of conduct |
 |                        | user support and mentoring | support and mentoring provided by experienced community members |
 
+## Validation
 
+If you are a user of cloud platforms, please participate to our [survey](https://ec.europa.eu/eusurvey/runner/a45e0e03-9c07-f6cd-26bc-c160393b9f98) and help us validate the indicators that we identified.
+
+## Presentation
+
+Link to the [presentation](https://talks.osgeo.org/media/foss4g-europe-2024/submissions/RXWVPW/resources/DiLeo_v3_cKRodkX.pdf).
