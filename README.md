@@ -16,12 +16,12 @@ The dimensions and indicators that we identified are described in the following 
 |                        | model interoperability     | integration and use of different models or algorithms for sharing and collaboration |
 |                        | service interoperability   | integration of external services or applications |
 |                        | semantic interoperability  | use of standard vocabularies, ontologies, or semantic technologies for consistent and meaningful data interpretation |
-| **Accessibility**      | of data                    | availability, variety, data types, granularity, resolution, coverage, timeliness, frequency at which new data is added, authentication, authorization, licensing and usage rights (clear information on data usage restrictions, copyright, and intellectual property rights), quality (accuracy, reliability, and completeness), metadata |
+| **Access**             | of data                    | availability, variety, data types, granularity, resolution, coverage, timeliness, frequency at which new data is added, authentication, authorization, licensing and usage rights (clear information on data usage restrictions, copyright, and intellectual property rights), quality (accuracy, reliability, and completeness), metadata |
 |                        | of models                  | availability of pre-built models or algorithms |
 |                        | of services                | availability of up-to-date services (such as GPUs, HPC, real-time updates, continuous data streams, large storage capacity, No-Code or Low-Code AI solutions, containerisation, data cubes, MLOps, DevOps) |
 |                        | user diversity             | compliance with accessibility design principles and standards, e.g., Web Content Accessibility Guidelines (WCAG) |
 |                        | licensing                  | clear and transparent licenses for data use |
-| **Discoverability**    | integration with discovery services | services to search for spatial datasets and related applications |
+| **Discovery**          | integration with discovery services | services to search for spatial datasets and related applications |
 |                        | data and metadata completeness | complete and accurate metadata to enable discovery |
 |                        | analytics                  | data and analytics to assess how users discover and access the services |
 |                        | search engine optimisation | optimisation of service-related pages and information for discovery services and search engines |
@@ -50,6 +50,25 @@ The dimensions and indicators that we identified are described in the following 
 |                        | community growth           | growth rate of the community |
 |                        | diversity and inclusivity  | presence of different user profiles, backgrounds, and expertise, creating an inclusive and diverse community, availability of a code of conduct |
 |                        | user support and mentoring | support and mentoring provided by experienced community members |
+| **Cost Transparency**  | tranparent prices          | clarity and transparency of the pricing structure, which should be easily accessible, understandable, and communicated |
+|                        | cost breakdown             | level of detail of cost breakdowns, such as data access fees, processing fees, or additional charges |
+|                        | cost predictability        | availability of a calculator/simulator to estimate costs before using services |
+|                        | no hidden costs            | absence of hidden or unexpected costs |
+|                        | cost comparison            | comparison of costs with other service providers or different pricing plans |
+|                        | cost optimisation          | recommendations to users to optimise/minimise costs based on use patterns |
+| **Sustainability**     | revenue growth             | generation of increasing revenues, capacity to attract and retain customers |
+|                        | churn rate                 | rate at which customers leave the platform over a specific period, sustainability of the business model in terms of customer loyalty |
+|                        | average revenue per user   | monetisation of the user base and sustainability of the business model |
+|                        | market share               | platform competitiveness |
+|                        | innovation and adaptability | ability to innovate and adapt to changing market dynamics and customer needs |
+|                        | carbon footprint           | GHG emissions due to platform operations |
+|                        | renewable energy use       | share of used energy from renewable sources |
+|                        | power usage effectiveness  | measure of a data centre efficiency, as total energy divided by IT energy; values close to 1 indicate high efficiency |
+| **Performance**        | responsiveness             | platform uptime, data retrieval and processing speed |
+|                        | scalability                | ability to handle increasing data and model sharing demands |
+|                        | security and privacy       | measures for data security and user privacy, considering factors such as data encryption, access controls, and compliance with relevant legislation |
+|                        | data use                   | number of downloads, user interactions, data usage |
+
 
 ## Validation
 
