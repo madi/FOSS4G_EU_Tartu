@@ -31,17 +31,15 @@ The heuristic principles that we identified are grouped into focus areas and des
 |                        | searchability              | easiness in navigating relevant documentation |
 |                        | demos and media            | availability of notebooks, videos, tutorials, webinars |
 |                        | try before buy             | free trials/freemium-like models |
-| **Customisation**      | user interface             | customisability of the user platform UI |
-|                        | data visualisation         | customisability of data visualisation |
-|                        | data processing            | customisability of data processing and analysis tools |
-|                        | workflow customisation     | customisability of user workflows |
-|                        | roles and permissions      | customisability of user roles and permissions |
-|                        | integration                | customisability of the integration with both external and internal services |
-| **Customer support**   | response time              | average response time, particularly relevant for early warning systems |
-|                        | customer satisfaction      | level of user satisfaction |
+| **Customisation**      | data visualisation         | customisation of data visualisation |
+|                        | data processing            | customisation of data processing and analysis tools |
+|                        | workflow customisation     | users can customize their workflows, ideally accessing resources from a federation of resources, in a seamless way |
+|                        | roles and permissions      | customisation of user roles and permissions |
+|                        | integration                | integration of the platform with external systems or services chosen by users |
+| **Customer support**   | response time              | time needed to answer to user inquiries or issues should be customized based on the level of operationality |
 |                        | multilingual support       | support in different languages |
-|                        | support team availability  | access to user assistance in given hours and through different channels |
-|                        | support team expertise     | expertise and knowledge in solving user issues |
+|                        | support team availability  | availability of the support team to assist users during specified hours or through different channels (e.g., email, chat, phone) |
+|                        | support team expertise     | level of expertise and knowledge of support team should be paired to user’s issue avoiding unnecessary communication and wasting of time, e.g. initial triage and ticket assignation (possibly assisted by AI) |
 |                        | support process improvement| continuous improvement of support processes based on user feedback and internal evaluations |
 | **Community**          | community engagement       | engagement and participation of the community members |
 |                        | knowledge sharing          | knowledge, insights, and experiences sharing, adherence with FAIR, TRUST, and GEO principles |
@@ -50,15 +48,14 @@ The heuristic principles that we identified are grouped into focus areas and des
 |                        | diversity and inclusivity  | presence of different user profiles, backgrounds, and expertise, creating an inclusive and diverse community, availability of a code of conduct |
 |                        | user support and mentoring | support and mentoring provided by experienced community members |
 | **Cost Transparency**  | tranparent prices          | clarity and transparency of the pricing structure, which should be easily accessible, understandable, and communicated |
-|                        | cost breakdown             | level of detail of cost breakdowns, such as data access fees, processing fees, or additional charges |
-|                        | cost predictability        | availability of a calculator/simulator to estimate costs before using services |
-|                        | no hidden costs            | absence of hidden or unexpected costs |
-|                        | cost comparison            | comparison of costs with other service providers or different pricing plans |
-|                        | cost optimisation          | recommendations to users to optimise/minimise costs based on use patterns |
-| **Sustainability**     | revenue growth             | generation of increasing revenues, capacity to attract and retain customers |
+|                        | cost breakdown             | cost breakdown of the different cost components, such as data access fees, processing fees, or additional charges |
+|                        | cost predictability        | providing users with a clear understanding of the costs they can incur for using the services. Thresholding, pre-paid, or other mechanisms to prevent unexpected charges |
+|                        | no hidden costs            | absence of hidden or unexpected costs. All costs disclosed upfront |
+|                        | cost comparison            | services to compare costs with alternative service providers or different pricing plans of the platform. informed decisions for users based on cost comparisons |
+|                        | cost optimisation recommendations | recommendations or insights to optimize their costs, tools or suggestions to help users reduce their expenses while using the services |
+| **Sustainability**     | revenue growth             | generation of increasing revenues, capacity to attract and retain customers. Proxy for platform's longevity |
 |                        | churn rate                 | rate at which customers leave the platform over a specific period, sustainability of the business model in terms of customer loyalty |
-|                        | average revenue per user   | monetisation of the user base and sustainability of the business model |
-|                        | market share               | platform competitiveness |
+|                        | commitment                 | Commitment of service provider over an agreed period of time 
 |                        | innovation and adaptability | ability to innovate and adapt to changing market dynamics and customer needs |
 |                        | carbon footprint           | GHG emissions due to platform operations |
 |                        | renewable energy use       | share of used energy from renewable sources |
