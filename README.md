@@ -3,26 +3,25 @@
 The paper describing this work can be found at https://isprs-archives.copernicus.org/articles/XLVIII-4-W12-2024/43/2024/
 
 ## Abstract
-This work proposes a framework for Earth Observation (EO) cloud platforms to carry out a self-assessment from a user experience perspective. The study outlines the methodological approach used to develop the framework, including the classification of existing EO platforms through a literature review of EU-funded projects. Additionally, a survey on user experience was conducted to further inform the design of the framework. We consider as target users the developers of policy-relevant use cases. The final phase of the methodology identifies user requirements across ten dimensions within the EO value chain and suggests a range of indicators to facilitate self-assessment. The paper emphasises the need to address the identified challenges and limitations to improve the usability and user satisfaction of existing EO cloud platforms. It also highlights the importance of principles such as FAIR (findability, accessibility, interoperability, and reusability) and TRUST (transparency, responsibility, user focus, sustainability and technology), open source components, and Open Geospatial Consortium (OGC) standards in shaping the future of EO data platforms and infrastructures.
+This work proposes a framework for cloud platforms to carry out a self-assessment from a user experience perspective. The study outlines the methodological approach used to develop the framework, including the classification of existing platforms through a literature review of EU-funded projects. Additionally, a survey on user experience was conducted to further inform the design of the framework. We consider as target users the developers of policy-relevant use cases. The final phase of the methodology identifies user requirements across ten dimensions within the development lifecycle and suggests a range of heuristic principles to facilitate self-assessment. The paper emphasises the need to address the identified challenges and limitations to improve the usability and user satisfaction of existing cloud platforms. It also highlights the importance of principles such as FAIR (findability, accessibility, interoperability, and reusability) and TRUST (transparency, responsibility, user focus, sustainability and technology), open source components, and Open Geospatial Consortium (OGC) standards in shaping the future of data platforms and infrastructures.
 
-# Dimensions and indicators
+# Heuristic principles
 
-The dimensions and indicators that we identified are described in the following table
+The heuristic principles that we identified are grouped into focus areas and described in the following table
 
 | Dimensions             | Indicators                 | Description |
 |------------------------|----------------------------|-------------|
 | **Interoperability**   | compliance with standards  | adherence to established data exchange standards, such as from OGC or ISO |
-|                        | data interoperability      | cloud services providing access and integrating datasets from heterogeneous data sources, including use of privacy-enhancing technologies for confidential data |
+|                        | data interoperability      | cloud services providing access and integrating datasets from heterogeneous data sources |
 |                        | model interoperability     | integration and use of different models or algorithms for sharing and collaboration |
 |                        | service interoperability   | integration of external services or applications |
 |                        | semantic interoperability  | use of standard vocabularies, ontologies, or semantic technologies for consistent and meaningful data interpretation |
 | **Access**             | of data                    | availability, variety, data types, granularity, resolution, coverage, timeliness, frequency at which new data is added, authentication, authorization, licensing and usage rights (clear information on data usage restrictions, copyright, and intellectual property rights), quality (accuracy, reliability, and completeness), metadata |
 |                        | of models                  | availability of pre-built models or algorithms |
-|                        | of services                | availability of up-to-date services (such as GPUs, HPC, real-time updates, continuous data streams, large storage capacity, No-Code or Low-Code AI solutions, containerisation, data cubes, MLOps, DevOps) |
+|                        | of services                | availability of up-to-date services (such as GPUs, HPC, real-time updates, continuous data streams, large storage capacity, No-Code or Low-Code AI solutions, containerisation, data cubes, MLOps, DevOps). Seamless access through federation of services. |
 |                        | user diversity             | compliance with accessibility design principles and standards, e.g., Web Content Accessibility Guidelines (WCAG) |
-|                        | licensing                  | clear and transparent licenses for data use |
 | **Discovery**          | integration with discovery services | services to search for spatial datasets and related applications |
-|                        | data and metadata completeness | complete and accurate metadata to enable discovery |
+|                        | data and service metadata completeness | complete and accurate metadata to enable discovery |
 |                        | analytics                  | data and analytics to assess how users discover and access the services |
 |                        | search engine optimisation | optimisation of service-related pages and information for discovery services and search engines |
 |                        | service catalogues/directories | service catalogues/directories listing and categorising available services |
@@ -66,7 +65,7 @@ The dimensions and indicators that we identified are described in the following 
 |                        | power usage effectiveness  | measure of a data centre efficiency, as total energy divided by IT energy; values close to 1 indicate high efficiency |
 | **Performance**        | responsiveness             | platform uptime, data retrieval and processing speed |
 |                        | scalability                | ability to handle increasing data and model sharing demands |
-|                        | security and privacy       | measures for data security and user privacy, considering factors such as data encryption, access controls, and compliance with relevant legislation |
+|                        | security and privacy       | robust data protection, privacy, security measures that protect users' data, with clear and transparent privacy policies (e.g., data encryption, access controls) |
 |                        | data use                   | number of downloads, user interactions, data usage |
 
 
